@@ -5,7 +5,6 @@ import java.util.*;
 public class TheObservedPIN {
 
     public static void main(String[] args) {
-
     }
 
     private static Map<String, List<String>> map = Map.of(
